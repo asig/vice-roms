@@ -1,0 +1,6 @@
+*.vkm
+*.vpl
+doc
+gui/
+fonts/
+
