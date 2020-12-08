@@ -6,7 +6,7 @@ I became tired of manually copying over the Commodore ROMs whenever I decide to 
 Usage
 -----
 ```bash
-cd /usr/lib/vice
+cd /usr/local/lib/vice
 sudo git init
 sudo git remote add origin https://github.com/asig/vice-roms.git
 sudo git fetch origin
